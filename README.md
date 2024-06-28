@@ -1,5 +1,8 @@
 # General
 
+![Build Status](https://poggit.pmmp.io/shield.state/PunishPro)
+![API](https://poggit.pmmp.io/shield.api/PunishPro)
+
 PunishPro is a Minecraft PocketMine-MP plugin for managing player punishments. With this plugin, you can temporarily ban players, mute their chat, and unban or unmute them as needed.
 
 ## Features
