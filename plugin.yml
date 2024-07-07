@@ -1,7 +1,7 @@
 name: PunishPro
 version: 1.0.0
 main: Dobezor\PunishPro
-api: [3.0.0]
+api: [5.0.0]
 author: Dobezor
 description: Plugin for punishing players.
 commands:
