@@ -1,0 +1,32 @@
+name: PunishPro
+version: 1.0.0
+main: Dobezor\PunishPro
+api: [5.0.0]
+author: Dobezor
+description: Plugin for punishing players.
+commands:
+  tempban:
+    description: Temporarily ban a player
+    permission: punishpro.tempban
+  chatoff:
+    description: Temporarily mute a players chat
+    permission: punishpro.chatoff
+  unban:
+    description: Unban a player
+    permission: punishpro.unban
+  chaton:
+    description: Restore a player's chat
+    permission: punishpro.chaton
+permissions:
+  punishpro.tempban:
+    description: Temporarily ban a player
+    default: op
+  punishpro.chatoff:
+    description: Temporarily mute a player's chat
+    default: op
+  punishpro.unban:
+    description: Unban a player
+    default: op
+  punishpro.chaton:
+    description: Restore a player's chat
+    default: op
